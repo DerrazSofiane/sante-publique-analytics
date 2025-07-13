@@ -1,6 +1,6 @@
 # Santé Publique Analytics 🏥
 
-## OpenClassrooms Project 3: Public Health Data Engineering
+## Project: Public Health Data Engineering
 
 ### 📋 Project Overview
 This project focuses on preparing and analyzing public health data for epidemiological studies. Working with global nutrition data from the FAO (Food and Agriculture Organization), the goal is to build a robust data pipeline that enables public health insights while ensuring data quality and privacy compliance.
@@ -185,8 +185,5 @@ sante-publique-analytics/
 - Data dictionary available
 - Privacy impact assessment included
 
-### 🤝 Contact
-Created by Sofiane Derraz as part of the OpenClassrooms AI Engineer certification program.
-
 ---
-*Note: This educational project demonstrates data engineering best practices for sensitive health data. The methodologies are applicable to real-world public health surveillance and epidemiological research systems.*
+*Note: This project demonstrates data engineering best practices for sensitive health data. The methodologies are applicable to real-world public health surveillance and epidemiological research systems.*
